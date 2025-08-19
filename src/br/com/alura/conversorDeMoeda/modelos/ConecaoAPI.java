@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 
 public class ConecaoAPI {
 
-    private String key =  "f341813331f8953943cec56c";
+    private String key =  " 2044cd41458dd2b88ca8bd7f";
 
     public String getKey() {
         return this.key;
